@@ -3,7 +3,7 @@ import time, os, datetime, getpass, socket
 
 #Clear the screen and show intro
 os.system("clear")
-print("Welcome to PyTerm 2.0! See readme.md for details.", end="")
+print("Welcome to PyTerm 2.0! See README.md for details.\nFor a list of useful commands, type \'help-me\'.", end="")
 
 while True:
     #Set variables
